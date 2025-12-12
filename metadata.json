@@ -1,0 +1,5 @@
+{
+  "name": "Creative Spark Workspace",
+  "description": "A multimodal AI workspace for brainstorming, visual analysis, and image generation using Gemini 2.5.",
+  "requestFramePermissions": []
+}
